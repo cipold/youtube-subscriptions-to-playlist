@@ -8,7 +8,7 @@ The main purpose for me was to get rid of RSS subscriptions to YouTube channels 
 # Setup
 For the moment:
 - Create a Google Spreadsheet
-- Select **Tools** > **Script Editor**
+- Select <kbd>Tools</kbd> > <kbd>Script Editor</kbd>
 - Paste the code from `Code.gs` and save the script
 - Refresh the Spreadsheet (<kbd>F5</kbd>)
 - Accept API permissions
