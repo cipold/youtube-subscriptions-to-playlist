@@ -10,12 +10,12 @@ For the moment:
 - Create a Google Spreadsheet
 - Select **Tools** > **Script Editor**
 - Paste the code from `Code.gs` and save the script
-- Refresh the Spreadsheet (F5)
+- Refresh the Spreadsheet (<kbd>F5</kbd>)
 - Accept API permissions
 
-After accepting all API permissions you should see a menu item in the top menu with the label **YouTube Subscriptions to Playlist**.
+After accepting all API permissions you should see a menu item in the top menu with the label <kbd>YouTube Subscriptions to Playlist</kbd>.
 
-As this is not an Add-on (yet) you have to then click the menu item, go to **Advanced** and select **Run Complete Installation**.
+As this is not an Add-on (yet) you have to then click the menu item, go to <kbd>Advanced</kbd> and select <kbd>Run Complete Installation</kbd>.
 
 Follow the instructions to copy your playlist ID and then current videos from all your subscribed channels will be imported automatically. From this moment on a timer will trigger the script every hour. The script will check for new videos and add them to your playlist and the spreadsheet automatically.
 
