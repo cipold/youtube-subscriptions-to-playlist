@@ -56,7 +56,8 @@ function createMenu() {
     .addItem('1. Create videos sheet', 'createVideosSheet')
     .addItem('2. Import latest videos as watched', 'initializeOldVideos')
     .addItem('3. Create time trigger', 'createTimeTrigger')
-    .addItem('4. Clear time trigger', 'clearAllTriggers')
+    .addSeparator()
+    .addItem('Clear time trigger', 'clearAllTriggers')
   )
   .addToUi();
 }
